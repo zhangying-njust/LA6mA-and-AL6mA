@@ -1,6 +1,3 @@
-"""
-@Time ： 2021/3/16 8:39
-"""
 import numpy as np
 import xlrd
 
