@@ -1,6 +1,3 @@
-"""
-@Time : 2021/7/3 13:57
-"""
 import numpy as np
 import matplotlib.pyplot as plt
 from DataProcessing import load_data
