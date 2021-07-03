@@ -1,6 +1,3 @@
-"""
-@Time : 2021/3/16 15:08
-"""
 from keras.layers import Multiply, Bidirectional, Dropout
 from keras.layers.recurrent import LSTM
 from keras.models import Input, Model
